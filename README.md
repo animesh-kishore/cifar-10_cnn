@@ -1,1 +1,1 @@
-# cifar-10_cnn
+CNN model for cifar-10 dataset
